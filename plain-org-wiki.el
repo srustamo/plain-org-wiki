@@ -33,7 +33,7 @@
   :group 'org
   :prefix "plain-org-wiki-")
 
-(defcustom pow-directory "~/org/wiki/"
+(defcustom pow-directory "~/Dropbox/org/wiki/"
   "Directory where files for `plain-org-wiki' are stored."
   :type 'directory)
 
